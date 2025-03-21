@@ -42,7 +42,7 @@ E2E automated testing for [kimchinamai.lt](https://kimchinamai.lt) using Cypres.
 * Technologies: Playwright, TypeScript, GitHub Actions
 
 3. [automationexercise_website_full_Cypress_testing_portfolio](https://github.com/anikush-yes/automationexercise_website_full_Cypress_testing_portfolio)
-Complete UI API automated a testing for AutomationExercise using Cypress.
+Complete UI API automated a testing for [AutomationExercise](https://automationexercise.com/) using Cypress.
 * Technologies: Cypress, JavaScript, GitHub Actions
 
 
