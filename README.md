@@ -16,7 +16,6 @@ I am a problem solver who applies this skill in the testing field. Complex chall
 
 # 🛠️ That what I learned and want to practice more ASAP:
 
-| Technology   | Badge |
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge) 
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge) 
