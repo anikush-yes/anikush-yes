@@ -46,6 +46,7 @@ Complete UI API automated a testing for [AutomationExercise](https://automatione
 * Technologies: Cypress, JavaScript, GitHub Actions
 
 **4.** [API testing for AutomationExercise with Postman and Newman integration in GitHub Actions.](https://anikush-yes.github.io/AutomationExercise_API_Testing/).
+AutomationExercise API Testing with Postman and Newman integration
 * Technologies: Postman, Newman, GitHub Actions
 
 **5.** https://anikush-yes.github.io/Parkrun_registration_form/
