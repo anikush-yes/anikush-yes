@@ -29,7 +29,10 @@ I am a problem solver who applies this skill in the testing field. Complex chall
 - 🌱 I’m currently learning everything related to QA, prioritizing Selenium.
 
 # Feautered Projects
-My priject not only relates to testting, but also I been created two customyzed apps, here you could che all my projects included testing ones:
+My priject not only relates to testting, but also I been created two customyzed apps as Parkrun_registration_formExpensies_Counter_App
+and , here you could che all my projects included testing ones:
+
+
 
 
 - 💬 Ask me about anything!
