@@ -50,9 +50,11 @@ AutomationExercise API Testing with Postman and Newman integration
 * Technologies: Postman, Newman, GitHub Actions
 
 **5.** https://anikush-yes.github.io/Parkrun_registration_form/
+HTML registration form for page X, using JS and CSS
 * Technologies: HTML, CSS, JavaScript
 
 **6.** https://anikush-yes.github.io/Expenses_Counter_App/
+Designed to help to manage spendings.
 *  Technologies: HTML, CSS, JavaScript
 
 ________________________________________________________
