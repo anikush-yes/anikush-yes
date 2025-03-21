@@ -51,7 +51,7 @@ Complete UI API automated a testing for [AutomationExercise](https://automatione
 5. https://anikush-yes.github.io/Parkrun_registration_form/
 * Technologies: HTML, CSS, JavaScript
 
-6. https://anikush-yes.github.io/Expensies_Counter_App/
+6. [https://anikush-yes.github.io/Expensies_Counter_App/](https://anikush-yes.github.io/Expenses_Counter_App/)
 *  Technologies: HTML, CSS, JavaScript
 
 ________________________________________________________
