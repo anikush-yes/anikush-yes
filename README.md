@@ -32,6 +32,40 @@ I am a problem solver who applies this skill in the testing field. Complex chall
 My priject not only relates to testting, but also I been created two customyzed apps as Parkrun_registration_formExpensies_Counter_App
 and , here you could che all my projects included testing ones:
 
+1. [Kimchinamai_Website_e2e_Cypress_Tests](https://kimchinamai.lt)
+E2E automated testing for kimchinamai.lt using Cypress.
+
+Technologies: Cypress, JavaScript, GitHub Actions
+
+Technologies: Cypress, JavaScript, GitHub Actions
+Focus: Comprehensive UI and functionality testing
+Status: Updated 3 hours ago
+AutomationExercise_API_Testing
+API testing for AutomationExercise with Postman and Newman integration in GitHub Actions.
+
+Technologies: Postman, Newman, GitHub Actions
+Focus: API functionality and performance testing
+Status: Updated 6 hours ago
+automationexercise_website_full_Cypress_testing_portfolio
+Complete UI automated testing for AutomationExercise using Cypress.
+
+Technologies: Cypress, JavaScript, GitHub Actions
+Focus: UI and user flow testing for web application
+Status: Updated 5 hours ago
+Parkrun_registration_form
+HTML registration form with JavaScript and CSS for page X.
+
+Technologies: HTML, CSS, JavaScript
+Focus: Form validation and UI interaction
+Status: Updated on Jan 3, 2025
+Expensies_Counter_App
+App designed to help manage personal expenses efficiently.
+
+Technologies: JavaScript
+Focus: Expense tracking and management
+Status: Updated on Dec 30, 2024
+
+
 
 
 
