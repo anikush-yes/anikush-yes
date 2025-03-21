@@ -34,36 +34,16 @@ Here, you can check all my projects, including the testing ones: >
 
 1. [Kimchinamai_Website_e2e_Cypress_Tests](https://kimchinamai.lt)
 E2E automated testing for [kimchinamai.lt](https://kimchinamai.lt) using Cypress.
-Technologies: Cypress, JavaScript, GitHub Actions
+* Technologies: Cypress, JavaScript, GitHub Actions
 
 
 2. [Kimchinamai_Website_Playwright_Automation_Tests](https://anikush-yes.github.io/Kimchinamai_Website_Playwright_Automation_Tests/)
 E2E automated testing for [kimchinamai.lt](https://kimchinamai.lt) using Cypres.
-Technologies: Playwright, TypeScript, GitHub Actions
+* Technologies: Playwright, TypeScript, GitHub Actions
 
-Technologies: Playwright, TypeScript, GitHub Actions
-Focus: End-to-end testing for web functionality
-Technologies: Postman, Newman, GitHub Actions
-Focus: API functionality and performance testing
-Status: Updated 6 hours ago
-automationexercise_website_full_Cypress_testing_portfolio
-Complete UI automated testing for AutomationExercise using Cypress.
-
-Technologies: Cypress, JavaScript, GitHub Actions
-Focus: UI and user flow testing for web application
-Status: Updated 5 hours ago
-Parkrun_registration_form
-HTML registration form with JavaScript and CSS for page X.
-
-Technologies: HTML, CSS, JavaScript
-Focus: Form validation and UI interaction
-Status: Updated on Jan 3, 2025
-Expensies_Counter_App
-App designed to help manage personal expenses efficiently.
-
-Technologies: JavaScript
-Focus: Expense tracking and management
-Status: Updated on Dec 30, 2024
+3. [automationexercise_website_full_Cypress_testing_portfolio](https://github.com/anikush-yes/automationexercise_website_full_Cypress_testing_portfolio)
+Complete UI API automated a testing for AutomationExercise using Cypress.
+* Technologies: Cypress, JavaScript, GitHub Actions
 
 
 
