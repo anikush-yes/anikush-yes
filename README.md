@@ -29,13 +29,13 @@ I am a problem solver who applies this skill in the testing field. Complex chall
 - 🌱 I’m currently learning everything related to QA, prioritizing Selenium.
 
 # Feautered Projects
-My priject not only relates to testting, but also I been created two customyzed apps as Parkrun_registration_formExpensies_Counter_App
-and , here you could che all my projects included testing ones:
+My projects not only relate to testing, but I have also created two customized apps: Parkrun_registration_form and Expenses_Counter_App.
+Here, you can check all my projects, including the testing ones:
 
 1. [Kimchinamai_Website_e2e_Cypress_Tests](https://kimchinamai.lt)
-E2E automated testing for kimchinamai.lt using Cypress.
-
+E2E automated testing for [kimchinamai.lt](https://kimchinamai.lt) using Cypress.
 Technologies: Cypress, JavaScript, GitHub Actions
+
 
 Technologies: Cypress, JavaScript, GitHub Actions
 Focus: Comprehensive UI and functionality testing
