@@ -33,25 +33,25 @@ I am a problem solver who applies this skill in the testing field. Complex chall
 > My projects not only related to testing, but I have also created two customized apps: Parkrun_registration_form and Expenses_Counter_App.
 Here, you can check all my projects, including the testing ones: 
 
-1. [Kimchinamai_Website_e2e_Cypress_Tests](https://kimchinamai.lt)
+**1.** [Kimchinamai_Website_e2e_Cypress_Tests](https://kimchinamai.lt)
 E2E automated testing for [kimchinamai.lt](https://kimchinamai.lt) using Cypress.
 * Technologies: Cypress, JavaScript, GitHub Actions
 
-2. [Kimchinamai_Website_Playwright_Automation_Tests](https://anikush-yes.github.io/Kimchinamai_Website_Playwright_Automation_Tests/)
+**2.** [Kimchinamai_Website_Playwright_Automation_Tests](https://anikush-yes.github.io/Kimchinamai_Website_Playwright_Automation_Tests/)
 E2E automated testing for [kimchinamai.lt](https://kimchinamai.lt) using Cypres.
 * Technologies: Playwright, TypeScript, GitHub Actions
 
-3. [automationexercise_website_full_Cypress_testing_portfolio](https://github.com/anikush-yes/automationexercise_website_full_Cypress_testing_portfolio)
+**3.** [automationexercise_website_full_Cypress_testing_portfolio](https://github.com/anikush-yes/automationexercise_website_full_Cypress_testing_portfolio)
 Complete UI API automated a testing for [AutomationExercise](https://automationexercise.com/) using Cypress.
 * Technologies: Cypress, JavaScript, GitHub Actions
 
-4. [API testing for AutomationExercise with Postman and Newman integration in GitHub Actions.](https://anikush-yes.github.io/AutomationExercise_API_Testing/).
+**4.** [API testing for AutomationExercise with Postman and Newman integration in GitHub Actions.](https://anikush-yes.github.io/AutomationExercise_API_Testing/).
 * Technologies: Postman, Newman, GitHub Actions
 
-5. https://anikush-yes.github.io/Parkrun_registration_form/
+**5.** https://anikush-yes.github.io/Parkrun_registration_form/
 * Technologies: HTML, CSS, JavaScript
 
-6. https://anikush-yes.github.io/Expenses_Counter_App/
+**6.** https://anikush-yes.github.io/Expenses_Counter_App/
 *  Technologies: HTML, CSS, JavaScript
 
 ________________________________________________________
