@@ -30,8 +30,8 @@ I am a problem solver who applies this skill in the testing field. Complex chall
 
 # Feautered Projects
 
-<< My projects not only related to testing, but I have also created two customized apps: Parkrun_registration_form and Expenses_Counter_App.
-Here, you can check all my projects, including the testing ones: >>
+> My projects not only related to testing, but I have also created two customized apps: Parkrun_registration_form and Expenses_Counter_App.
+Here, you can check all my projects, including the testing ones: <
 
 1. [Kimchinamai_Website_e2e_Cypress_Tests](https://kimchinamai.lt)
 E2E automated testing for [kimchinamai.lt](https://kimchinamai.lt) using Cypress.
@@ -54,6 +54,7 @@ Complete UI API automated a testing for [AutomationExercise](https://automatione
 6. https://anikush-yes.github.io/Expensies_Counter_App/
 *  HTML, CSS, JavaScript
 
+________________________________________________________
 
 - 💬 Ask me about anything!
 - 📫 How to reach me: anikush@hotmail.com
