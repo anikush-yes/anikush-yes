@@ -52,7 +52,7 @@ Complete UI API automated a testing for [AutomationExercise](https://automatione
 * Technologies: HTML, CSS, JavaScript
 
 6. https://anikush-yes.github.io/Expensies_Counter_App/
-*  HTML, CSS, JavaScript
+*  Technologies: HTML, CSS, JavaScript
 
 ________________________________________________________
 
