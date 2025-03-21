@@ -1,6 +1,6 @@
 # Hi there 💃, my name is Anna Kochetkova, ***anikush-yes*** in Git
 
-I am a problem solver who applies this skill in the testing field. Complex challenges are not obstacles but a pleasure to overcome. I have received a tester certification, but it's just the beginning—a good start - the finish line is unattainable...
+I am a problem solver who applies this skill in the testing field. Complex challenges are not obstacles but a pleasure to overcome. I have received a tester certification, but it's just the beginning — a good start - the finish line is unattainable...
 
 <!--
 **anikush-yes/anikush-yes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
