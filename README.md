@@ -25,7 +25,7 @@ I am a problem solver who applies this skill in the testing field. Complex chall
 ![JMeter](https://img.shields.io/badge/JMeter-000000?logo=apachejmeter&logoColor=white&style=for-the-badge) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
-🔭 I’m currently looking for a junior QA tester position, which would be a great starting point for me 😊.
+- 🔭 I’m currently looking for a junior QA tester position, which would be a great starting point for me 😊.
 🌱 I’m currently learning everything related to QA, prioritizing Selenium.
 
 # Feautered Projects
