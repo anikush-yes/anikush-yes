@@ -36,7 +36,7 @@ My priject not only relates to testting, but also I been created two customyzed 
 - 📫 How to reach me: anikush@hotmail.com
 
 - 😄 Quote I live by: "No one knows everything." – James Bach
-- ⚡ Fun fact: Give me something to test, and I will— even a teapot 🫖!
+- ⚡ Fun fact: Give me something to test, and I will — even a teapot 🫖!
 
 
 
