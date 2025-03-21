@@ -29,20 +29,20 @@ I am a problem solver who applies this skill in the testing field. Complex chall
 - 🌱 I’m currently learning everything related to QA, prioritizing Selenium.
 
 # Feautered Projects
-My projects not only relate to testing, but I have also created two customized apps: Parkrun_registration_form and Expenses_Counter_App.
-Here, you can check all my projects, including the testing ones:
+< My projects not only related to testing, but I have also created two customized apps: Parkrun_registration_form and Expenses_Counter_App.
+Here, you can check all my projects, including the testing ones: >
 
 1. [Kimchinamai_Website_e2e_Cypress_Tests](https://kimchinamai.lt)
 E2E automated testing for [kimchinamai.lt](https://kimchinamai.lt) using Cypress.
 Technologies: Cypress, JavaScript, GitHub Actions
 
 
-Technologies: Cypress, JavaScript, GitHub Actions
-Focus: Comprehensive UI and functionality testing
-Status: Updated 3 hours ago
-AutomationExercise_API_Testing
-API testing for AutomationExercise with Postman and Newman integration in GitHub Actions.
+2. [Kimchinamai_Website_Playwright_Automation_Tests](https://anikush-yes.github.io/Kimchinamai_Website_Playwright_Automation_Tests/)
+E2E automated testing for [kimchinamai.lt](https://kimchinamai.lt) using Cypres.
+Technologies: Playwright, TypeScript, GitHub Actions
 
+Technologies: Playwright, TypeScript, GitHub Actions
+Focus: End-to-end testing for web functionality
 Technologies: Postman, Newman, GitHub Actions
 Focus: API functionality and performance testing
 Status: Updated 6 hours ago
