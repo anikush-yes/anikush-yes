@@ -14,7 +14,7 @@ I am a problem solver who applies this skill in the testing field. Complex chall
 ⚡ Fun fact: Give me something to test, and I will— even a teapot 🫖!
 -->
 
-# 🪛 That what I learned and want to practice more ASAP:
+# 🪛 That’s what I learned and want to practice more ASAP:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge) 
