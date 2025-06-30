@@ -37,7 +37,7 @@ Here, you can check all my projects, including the testing ones:
 E2E automated testing for [kimchinamai.lt](https://kimchinamai.lt) using Cypress.
 * Technologies: Cypress, JavaScript, GitHub Actions
 
-**2.** [Kimchinamai_Website_Playwright_Automation_Tests](https://anikush-yes.github.io/Kimchinamai_Website_Playwright_Automation_Tests/](https://anikush-yes.github.io/Kimchinamai_Website_Playwright_Automation_Tests/)
+**2.** [Kimchinamai_Website_Playwright_Automation_Tests](https://anikush-yes.github.io/Kimchinamai_Website_Playwright_Automation_Tests/)
 E2E automated testing for [kimchinamai.lt](https://kimchinamai.lt) using Playwright.
 * Technologies: Playwright, TypeScript, GitHub Actions
 
