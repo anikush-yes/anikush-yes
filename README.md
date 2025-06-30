@@ -33,7 +33,7 @@ I am a problem solver who applies this skill in the testing field. Complex chall
 > My projects not only related to testing, but I have also created two customized apps: Parkrun_registration_form and Expenses_Counter_App.
 Here, you can check all my projects, including the testing ones: 
 
-**1.** [Kimchinamai_Website_e2e_Cypress_Tests](https://kimchinamai.lt)
+**1.** [Kimchinamai_Website_e2e_Cypress_Tests]
 E2E automated testing for [kimchinamai.lt](https://kimchinamai.lt) using Cypress.
 * Technologies: Cypress, JavaScript, GitHub Actions
 
